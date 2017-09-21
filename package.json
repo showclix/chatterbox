@@ -10,7 +10,7 @@
     "simplecrypt": "https://github.com/ShowClix/simplecrypt/tarball/master",
     "chalk": "0.3.x",
     "inquirer": "0.3.x",
-    "ssh2": "0.2.x"
+    "ssh2": "0.5.x"
   },
   "author": "me@nategood.com",
   "license": "MIT"
